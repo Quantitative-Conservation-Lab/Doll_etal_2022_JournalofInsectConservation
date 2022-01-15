@@ -1,6 +1,6 @@
 # Using structured decision making to guide habitat restoration for butterflies
 
-### Doll, C. F., S. J. Converse, C. B. Edwards, and C. B. Schultz
+### Doll CF, Converse SJ, Edwards CB, and Schultz CB
 
 ### Journal of Insect Conservation
 
@@ -10,15 +10,15 @@
 
 ## Citation:
 
-Doll, C. F., S. J. Converse, C. B. Edwards, and C. B. Schultz. Under Review. Using structured decision making to guide habitat restoration for butterflies. Journal of Insect Conservation.
+Doll CF, Converse SJ, Edwards CB, and Schultz CB. Under Review. Using structured decision making to guide habitat restoration for butterflies:a case study of Oregon silverspots. Journal of Insect Conservation.
 
 ## Abstract:
 
 *Introduction* When making decisions about how to restore habitat for at-risk species, land managers must balance multiple competing objectives in the face of uncertainty about the impacts of management actions on at-risk populations. The Oregon silverspot (*Speyeria = Argynnis zerene hippolyta*) is a federally threatened butterfly, and uncertainty exists about the effects of proposed management. 
 
-*Aims/Methods* We used structured decision making (SDM) to guide restoration for Oregon silverspots. Managers identified persistence as their primary objective and further identified effects of herbicides as a key uncertainty. We developed a model of population dynamics incorporating management actions and parameterized the model based on experiments with a surrogate subspecies, the Zerene silverspot (*S. z. zerene*). Herbicide application may directly harm Oregon silverspots by increasing larval mortality, while indirectly benefiting silverspots by reducing the competition faced by their hostplant. In this system, potential herbicide treatments include grass-specific fluazifop-p-butyl or forb-specific clopyralid applied with Agri-Dex<sup>®</sup> or Nu Film<sup>®</sup> IR adjuvants. 
+*Aims/Methods* We used structured decision making (SDM) to guide restoration for Oregon silverspots. Managers identified persistence as their primary objective and further identified effects of herbicides as a key uncertainty. We developed a model of population dynamics incorporating management actions and parameterized the model based on experiments with a surrogate subspecies, the Zerene silverspot (*S. z. zerene*). Herbicide application may directly harm Oregon silverspots by increasing larval mortality, while indirectly benefiting silverspots by reducing the competition faced by their host plant. In this system, potential herbicide treatments include grass-specific fluazifop-P-butyl or forb-specific clopyralid applied with Agri-Dex<sup>®</sup> or Nu-Film<sup>®</sup> IR adjuvants. 
 
-*Results* We found that Oregon silverspot population growth rate is greatest with clopyralid and fluazifop-p-butyl when combined with Nu Film<sup>®</sup> IR than other alternatives (including no treatment) considering only direct effects or in combination with indirect effects. 
+*Results* We found that Oregon silverspot population growth rate is greatest with clopyralid and fluazifop-p-butyl when combined with Nu-Film<sup>®</sup> IR than other alternatives (including no treatment) considering only direct effects or in combination with indirect effects. 
 
 *Discussion* An adaptive management program would benefit Oregon silverspots by promoting exploration of management alternatives while allowing managers to act quickly to arrest steep declines. Uncertainty remains regarding how well our results will generalize in field conditions. 
 
