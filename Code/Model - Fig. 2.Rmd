@@ -888,8 +888,8 @@ Fig_2 <- Fig_2 +
                      values = c(21,24)) + 
   scale_fill_manual(name = "Alternative", breaks = c("U","CA","CN","FA","FN"), 
                     labels = c("Untreated (U)","Clopyralid + Agri-Dex (CA)",
-                               "Clopyralid + Nu Film (CN)","Fluazifop-p-butyl + Agri-Dex (FA)",
-                               "Fluazifop-p-butyl + Nu Film (FN)"),
+                               "Clopyralid + Nu-Film (CN)","Fluazifop-P-butyl + Agri-Dex (FA)",
+                               "Fluazifop-P-butyl + Nu-Film (FN)"),
                     values = c("#999999","#56B4E9","#009E73","#D55E00","#CC79A7")) + 
   theme(axis.text.x = element_text(size = 8.5), axis.text.y = element_text(size = 8.5), 
         title = element_text(size = 8.5), panel.background = element_blank(), 
