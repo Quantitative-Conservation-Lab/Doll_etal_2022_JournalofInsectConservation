@@ -1,4 +1,4 @@
-# Using structured decision making to guide habitat restoration for butterflies
+# Using structured decision making to guide habitat restoration for butterflies: a case study of Oregon silverspots
 
 ### Doll CF, Converse SJ, Edwards CB, and Schultz CB
 
